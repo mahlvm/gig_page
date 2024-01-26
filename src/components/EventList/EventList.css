@@ -1,0 +1,47 @@
+.shows-container-EL {
+    margin-top: 20px;
+    text-align: center;
+}
+
+.shows-list-EL {
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 2em;
+    color: #960404;
+    font-weight: bold;
+}
+
+.band-name-EL {
+    font-weight: bold;
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1.5em;
+    color: #960404;
+    font-weight: bold;
+}
+
+.description-EL {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1em;
+    color: #ffffff;
+    flex: 2;
+    text-align: left;
+}
+
+.time-EL {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1em;
+    color: #ffffff;
+    flex: 2;
+    text-align: left;
+}
+
+.location-EL {
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 1em;
+    color: #ffffff;
+    flex: 2;
+    text-align: left;
+}
